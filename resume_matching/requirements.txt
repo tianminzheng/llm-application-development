@@ -1,0 +1,9 @@
+faiss-cpu # change to fais-gpu if available
+sentence-transformers
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+llama-index-retrievers-bm25
+streamlit
+nest_asyncio
+pandas
